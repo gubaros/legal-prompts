@@ -79,21 +79,3 @@ Representación en texto o pseudográfico del desarrollo del expediente.
 
 ---
 
-## 🧮 Ejemplo de Salida Esperada
-
-### Caso: *Asociación REDI c/ GCBA y otro s/ Amparo (Expte. 27768/0)*
-
-**Tipo de proceso:** Amparo colectivo estructural (CCAyT CABA).  
-**Fase:** Ejecución de sentencia.  
-**Actor:** Asociación REDI.  
-**Demandado:** Gobierno de la Ciudad de Buenos Aires (GCBA) y CLIBA S.A.  
-**Contexto:** La jueza designa una interventora para supervisar la accesibilidad del servicio público de higiene urbana.  
-
-**Punto procesal actual:** Pedido de aclaraciones al informe de la interventora (fs. 1695/1697).  
-**Proveído:** La jueza rechaza el pedido por entender que no se trata de un informe pericial (fs. 1698).  
-**Recursos procedentes:**  
-- Reposición (art. 238 CCAyT).  
-- Apelación subsidiaria (art. 239 CCAyT).  
-
-**Flujo procesal sistémico:**
-
